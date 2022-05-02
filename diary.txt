@@ -1,0 +1,6 @@
+- create git_writes folder
+- create the diary.txt
+- make two writes save and
+- git inint
+- git remote add git_writes https://github.com/viwnu/git_writes
+- git status
